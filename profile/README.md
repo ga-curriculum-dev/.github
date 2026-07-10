@@ -2,22 +2,23 @@
 
 # General Assembly | Curriculum Development
 
-A **private development workspace** for GA's curriculum team and contracted developers. It holds new and in-progress content — it is **not** a student or public resource.
+This organization is General Assembly's **private development workspace** for new and in-progress curriculum. Content here is unfinished and is not a student or public resource.
 
-> **Students:** you are in the wrong place. Nothing here is finished or meant for learners. Your program materials are in your own cohort's repository — watch for a GitHub email invitation, or ask your instructor.
+> **Are you a student?** No — you're in the wrong place, and nothing here is ready for learners. Your course materials are in your own cohort's repository. Watch for a GitHub email invitation, or ask your instructor for the link.
 
 ---
 
 <details>
-<summary><strong>Need access? (GA staff or contracted developers)</strong></summary>
+<summary><strong>GA team members — how to request access</strong></summary>
 
-1. Have a **personal GitHub account** with **two-factor authentication (2FA) enabled** — https://github.com/settings/security
-2. [Email/Slack (TBD)](#) with your **role** and the **program** you are working on.
+1. Make sure you have a **personal GitHub account** with **two-factor authentication (2FA) enabled** — https://github.com/settings/security
+2. Request access through **[GA's GitHub access request channel](#)** _(Slack channel — TBD)_ <!-- TODO: replace (#) with the Slack channel link once it is created --> with your **role** and the **team or program** you're joining.
 
-Once approved, you will receive a GitHub invitation to the Org.
+Access is granted at the **organization level**, not per repository. Once you're approved and added as an org member, you'll have access across this organization — there's no need to request individual repos.
 
 </details>
 
 ---
 
-For anything not covered here, contact General Assembly through your existing point of contact.
+**Questions, or not sure why you're here?**
+If you're not a GA student or team member, head to **[generalassemb.ly](https://generalassemb.ly)** to explore our courses and get in touch.
